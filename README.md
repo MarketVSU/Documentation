@@ -7,7 +7,8 @@
 <h2>Навигация по документации</h2>
   <h3>Курсовой проект</h3>
   <ul>
-    <li><a href="https://github.com/MarketVSU/Documentation/blob/master/Kursovoy_proekt.docx">в формате .doc</a></li>
+    <li><a href="https://github.com/MarketVSU/Documentation/blob/master/Курсовой%20проект.docx">в формате .doc</a></li>
+    <li><a href="https://github.com/MarketVSU/Documentation/blob/master/Курсовой%20проект.pdf">в формате .pdf</a></li>
   </ul>
   <h3>Техническое задание</h3>
   <ul>
