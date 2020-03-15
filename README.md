@@ -17,3 +17,4 @@
   </ul>
 <h2>Ссылки</h2>
   <a href="https://trello.com/b/OvZapIpQ/clothing-store">Доска на Trello</a><br>
+  <a href="https://miro.com/app/board/o9J_kuka3ho=/">Схема в miro.com</a><br>
