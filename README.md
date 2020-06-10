@@ -16,5 +16,6 @@
     <li><a href="https://github.com/MarketVSU/Documentation/blob/master/Tekhnicheskoe_zadanie.pdf">в формате .pdf</a></li>
   </ul>
 <h2>Ссылки</h2>
+  <a href="https://drive.google.com/drive/folders/1grIZKJconX_-G6X9oxvM-M8z65yoX4Mv?usp=sharing">Видео работы приложения</a><br>
   <a href="https://trello.com/b/OvZapIpQ/clothing-store">Доска на Trello</a><br>
   <a href="https://miro.com/app/board/o9J_kuka3ho=/">Схема в miro.com</a><br>
