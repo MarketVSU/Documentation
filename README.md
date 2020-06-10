@@ -1,5 +1,7 @@
 # Documentation
 
+<h2><a href="https://clothing-store-vsu.herokuapp.com">Ссылка на веб-приложение</a></h2>
+
 <h2>Веб-приложение</h2>
   <h3>Ветка <a href="https://github.com/MarketVSU/Frontend">frontend</a></h3>
   <h3>Ветка <a href="https://github.com/MarketVSU/Backend">backend</a></h3>
