@@ -23,3 +23,4 @@
   <a href="https://miro.com/app/board/o9J_kuka3ho=/">Схема в miro.com</a><br>
   <a href="https://u1075009.plsk.regruhosting.ru/">Ссылка на backend</a><br>
   <a href="https://u1075009.plsk.regruhosting.ru/swagger/">Ссылка на swagger</a><br>
+  <a href="https://www.youtube.com/watch?v=gmGfcgRgf7Y">Ссылка на презентацию</a><br>
