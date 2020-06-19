@@ -2,6 +2,8 @@
 
 <h2><a href="https://clothing-store-vsu.herokuapp.com">Ссылка на веб-приложение</a></h2>
 
+<h2><a href="https://www.youtube.com/watch?v=gmGfcgRgf7Y">Ссылка на презентацию</a></h2>
+
 <h2>Веб-приложение</h2>
   <h3>Ветка <a href="https://github.com/MarketVSU/Frontend">frontend</a></h3>
   <h3>Ветка <a href="https://github.com/MarketVSU/Backend">backend</a></h3>
@@ -23,4 +25,8 @@
   <a href="https://miro.com/app/board/o9J_kuka3ho=/">Схема в miro.com</a><br>
   <a href="https://u1075009.plsk.regruhosting.ru/">Ссылка на backend</a><br>
   <a href="https://u1075009.plsk.regruhosting.ru/swagger/">Ссылка на swagger</a><br>
-  <a href="https://www.youtube.com/watch?v=gmGfcgRgf7Y">Ссылка на презентацию</a><br>
+
+<h2>Над проектом работали</h2>
+  <p>Лесных Иван Евгеньевич, email: ivan.lesnykh.official@gmail.com</p>
+  <p>Латынин Геннадий Олегович, email: gen48250@yandex.ru</p>
+  <p>Товмасян Армен Артурович, email:armentovmasyan02@gmail.com</p>
